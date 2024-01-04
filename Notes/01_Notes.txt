@@ -1,0 +1,17 @@
+python is created by Guido Van Rossum in 1991.
+
+python name come after "Monty's Python Flying Circus".
+
+Q.why should you learn python?
+=>1.Simple and Easy to learn.
+=>2.Career Opportunity.
+=>3.Large Open source Community.
+=>4.Reliable and Efficient.
+=>5.Extensive Library.
+
+Q.use of python
+=>web application -Django,Flask,Torando
+=>Desktop application -pyGTK,Cocoa
+=> Machine Learning,Data Science,Deep Learning -LNTK,sklearn,tensorflow,theano,Spark
+=>cloud & DevOps -openStack API,Fabric
+=>Hardware Programming -Raspberry pi
