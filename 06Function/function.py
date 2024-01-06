@@ -6,3 +6,7 @@ def print_sum(first,second):
     return first+second
 
 print(print_sum(4,2))
+
+def printname():
+    print("tarun")
+printname()
