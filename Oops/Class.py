@@ -9,3 +9,8 @@ s=Demo()
 s.display()
 s.dispalyname()
 
+
+##acces modifier
+name="Tarun"    #public
+_name="Kumar"   #protected
+__name="dalber" #private
