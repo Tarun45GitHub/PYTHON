@@ -7,3 +7,7 @@ byte code: low level but not machine level code byte code is platfrom independen
 - step2: byte runs in python virtual machine(PVM)
          
 .py => compiled => .pyc => pvm => run
+
+## python immutable and mutable
+- immutable : string, int, float, bool, Unicode, and tuple
+- mutable : List , set, Dictionary
